@@ -23,7 +23,7 @@ Serdecznie dziękujemy za udział w wykładzie,
 ### Lintery oraz weryfikacja kodu
 * [Tailor](https://tailor.sh)
 * [SwiftLint](https://github.com/realm/SwiftLint)
-* [Codebat](https://codebeat.co) – zautomatyzowane code review
+* [Codebeat](https://codebeat.co) – zautomatyzowane code review
 
 ### Obsługa błędów (crashy)
 * [Crashlytics](https://try.crashlytics.com)
